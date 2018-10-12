@@ -1,0 +1,35 @@
+Notes on the meeting held on 10/11/2018 between the 2>/dev/null team and Mrs. Vanessa Fry
+
+Q: Why 2 excel files?
+A: Because the file cohort2 is the result of the first year. It has only data fro GRTR. because it is the first sample, where all the students in the file, are pre-k students.
+The cohort1 file, it has students with pre-k and k, that's why it has GRTR and IRI test.
+Although the pre-k students from file 1 and file 2 are not the same, we can use both population to increase our sampling size for pre-k students to see characteristics of this group.
+
+Q: What's GRTR 
+A: It's the Get Ready To Read screening test. It covers only pre-k students
+
+Q: What's IRI
+Idaho Reading Indicator
+It is the test from k to 3th. grade
+
+Q: What's LNF and LSF.- 
+A: Letter Name Frequency and Letter Sound Frequency.
+
+Q: Should we care about ELL column?
+A: No, because not all of the students answered that question, therefore is not a reliable column
+
+Q: Teacher column.
+It is coded but we don't have the code yet, but it's corelated to am_pm column. It can be either am teacher, pm teacher or both. I think we can come up with the corelation.
+
+Q: Theory 1 from Mrs. Fry (Try to answer it via data)
+A: If we have a classroom with 50% pre-k students, and 50% non pre-k students, the whole classroom should perform better, thank a classroom without any pre-k students. Maybe the pre-k students make some sort of peer pressure to increase the academic level of everyone on the classroom
+
+Q: IEP Students were considered for pre-k selection?
+A: Yes, or highly likely to be under an IEP program.
+
+Q: Code for am_pm column
+am=0, pm=1
+
+Q: Do we have demographics?
+A: No but likely in new data that might be available soon
+

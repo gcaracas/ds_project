@@ -10,6 +10,11 @@ Gerardo Caracas
 
 Team name: 2>/dev/null
 
+
+Repo where Aparna and Gerardo share their work betwethe rest of the time we worked:
+https://github.com/gcaracas/ds_project
+ 
+
 Assignment Questions:
 Model the Problem.
 We want to find a correlation between pre-k students and thier performance while on a pre-k program, and then a correlation between pre-k and non-prek students when they enter in K, 1st. grade.
@@ -24,4 +29,17 @@ Lastly we need to perform this same technique to compare the pre-k students prog
 Evaluation:
 All these evaluations where performed in the jupyter notebook provided in this hw.
 
-. 
+
+
+How did we spent the time at class on the 12th. and 14th.
+November 12th. 
+Aparna and Gerardo met at the classroom at 12:00p.m. and worked there until 1:15 pm. The first 15 min, we talked about the cluster assignment and the rest of the time we perform an analysis to find out if the pre-k students have a different learning rate while in pre-k program between schools (2 sampled schools) and between am or pm programs.
+We found that between schools there is no much difference, but the am students significally underperformed compared with their pm counterparts. In short, pm is better for pre-k students.
+
+November 14th.
+Just as the 12th. we met at the classroom at 12:00 pm and we left at 1:15 pm. 
+We spent about 15 min. talking about the cluster assignment, and then the rest of the time we worked on this homework, writting this report and cleaning up a bit our notebook.
+
+
+
+
